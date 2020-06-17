@@ -1,0 +1,23 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixschuler/testsite.git"
+  },
+  "keywords": [],
+  "author": "Felix Schuler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixschuler/testsite/issues"
+  },
+  "homepage": "https://felixschuler/github.io/testsite",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
